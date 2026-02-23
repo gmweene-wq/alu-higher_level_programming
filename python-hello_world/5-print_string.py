@@ -1,3 +1,5 @@
 #!/usr/bin/python3
 str = "Holberton School"
-print(str[0:10])
+tr = str[0:9]
+print((3*str))
+print(tr)
